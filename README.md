@@ -1,11 +1,7 @@
 # Security-Tools
 
-## 功能介绍
-这是一些用python代码来实现的安全工具，目前支持网站扫描，ddos等，你可以使用Scan里的代码来扫描 ip 和端口，使用attack里的代码来进行安全模拟。
-很多功能还不是很完善，后续我会不断更新内容，让他越来越实用，好用。欢迎提出更改建议，我会针对进行修改的
+## Function Introduction
+These are some security tools implemented with Python code. Currently, they support website scanning, DDoS, and more. You can use the code in the "Scan" section to scan IP addresses and ports, and the code in the "Attack" section for security simulations. Many features are still under development, but I will keep updating them to make them more practical and user-friendly. Suggestions for improvement are welcome, and I will address them promptly.
 
-## 一点点建议
-个人推荐使用linux系统进行操作，因为scapy的功能很多只能在linux上运行
-在执行一些python程序前，你还需安装一些python的第三方库，如scapy，pexpect，itertools等
-
-
+## A Small Suggestion
+I recommend using a Linux system for operation, as many of the functionalities of Scapy can only run on Linux. Before running some Python programs, you will also need to install some third-party Python libraries, such as Scapy, pexpect, and itertools.
